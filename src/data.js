@@ -114,6 +114,14 @@ export var aca_experiences = [
 export var ind_experiences = [
   {
     presets: ["Developer"],
+    title: "Research Scientist Intern",
+    date: "June - November 2022",
+    company: "Meta Reality Labs",
+    blurb:
+      "Worked on text entry for sEMG devices on the Input Explorations team. Duties included building interactive demos to explore future interfaces and designing studies to understand how users interact with these systems.",
+  },
+  {
+    presets: ["Developer"],
     title: "User Interfaces Research Intern",
     date: "January - April 2019",
     company: "Autodesk Research",
