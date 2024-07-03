@@ -85,8 +85,10 @@ export var aca_experiences = [
     title: "Teaching Assistant",
     date: "September 2019 - Current",
     company: "University of Toronto",
-    blurb:
-      "Teach weekly upper year (300-400) tutorials on topics related to Human Computer Interaction.",
+    bullets: [
+      "CSC428/318/309: taught weekly upper year (300-400) tutorials on topics related to Human Computer Interaction.",
+      "CSC108: held office hours as a teaching assistant for 5 semesters. Returned to this course because I have an in-depth knowledge of the material and enjoy working directly with students who might be struggling with the course material.",
+    ],
   },
   {
     title: "Research Assistant",
