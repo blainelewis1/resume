@@ -82,6 +82,14 @@ export var skills = [
 
 export var aca_experiences = [
   {
+    title: "Course Instructor",
+    date: "January 2025 - Current",
+    company: "University of Toronto",
+    bullets: [
+      "CSC108 Introduction to Computer Programming: taught a flipped classroom course on programming with Python.",
+    ],
+  },
+  {
     title: "Teaching Assistant",
     date: "September 2019 - Current",
     company: "University of Toronto",
@@ -114,6 +122,22 @@ export var aca_experiences = [
 ];
 
 export var ind_experiences = [
+  {
+    title: "Course Instructor",
+    date: "January 2025 - Current",
+    company: "University of Toronto",
+    bullets: [
+      "CSC108 Introduction to Computer Programming: taught a flipped classroom course on programming with Python.",
+    ],
+  },
+  {
+    presets: ["Developer"],
+    title: "Research Scientist Intern",
+    date: "May - September 2023",
+    company: "Meta Reality Labs",
+    blurb:
+      "Developed and evaluated a system and novel method for combining mid-air hand gestures into sequences of gestures for accomplishing complex tasks.",
+  },
   {
     presets: ["Developer"],
     title: "Research Scientist Intern",
@@ -236,9 +260,9 @@ export var educations = [
   {
     degree: "PhD, Computer Science",
     school: "University of Toronto",
-    date: "September 2019 - September 2023",
+    date: "September 2019 - January 2025",
     bullets: [
-      "My research seeks to understand how people achieve expertise when using software and leverages that to create novel interaction techniques. My research is supervised by Professor Tovi Grossman.",
+      "My research seeks to understand how people learn to use software and leverages that to create novel interaction techniques for situations requiring a high degree of expertise. My research is supervised by Professor Tovi Grossman.",
     ],
   },
   {
@@ -260,6 +284,7 @@ export var educations = [
 ];
 
 export var conferencePapers = [
+  "Rachel Phinnemore, Mohi Reza, <b>Blaine Lewis</b>, Karthik Mahadevan, Bryan Wang, Michelle Annett, and Daniel Wigdor. 2023. Creepy Assistant: Development and Validation of a Scale to Measure the Perceived Creepiness of Voice Assistants. <i>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems <b>(CHI '23)</b>.</i>",
   "<b>Blaine Lewis</b>, and Daniel Vogel. Longer Delays in Rehearsal-based Interfaces Increase Expert Use. <i>ACM Trans. Comput.-Hum. Interact <b>(TOCHI)</b>. 27, 6, Article 45 (November 2020), 41 pages.</i>",
   "<b>Blaine Lewis*</b>, Greg d'Eon*, Andy Cockburn, and Daniel Vogel. KeyMap: KeyMap: Improving Keyboard Shortcut Vocabulary Using Norman's Mapping. <i>Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems <b>(CHI '20)</b>. ACM, New York, NY, USA.",
   "Andy Cockburn, <b>Blaine Lewis</b>, Phillip Quinn, Carl Gutwin. Framing Effects Influence Interface Feature Decisions <i>Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems <b>(CHI '20)</b>.</i> ACM, New York, NY, USA.",

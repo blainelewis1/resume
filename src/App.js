@@ -167,6 +167,7 @@ const App = ({ skills, contacts, experiences, educations }) => (
       <div className="item">
         <p>
           <ul>
+            <li>CHI2025 (Special Recognition for Outstanding Review)</li>
             <li>UIST2024</li>
             <li>TOCHI</li>
             <li>CHI2023 (Special Recognition for Outstanding Review)</li>
